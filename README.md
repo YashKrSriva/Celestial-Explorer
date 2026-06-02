@@ -43,13 +43,19 @@ Celestial Explorer is an interactive astronomy dashboard that brings real-time s
 
 ---
 
-## 📸 Preview
+## 📸 Screenshots
 
-> Add a screenshot of the homepage inside a `screenshots` folder and update the image path below.
+### 🏠 Homepage
+![Homepage](./Screenshots/celestialexplorerHomepage.png)
 
-```md
-![Celestial Explorer](./screenshots/home.png)
-```
+### 🛰️ ISS Tracker
+![ISS Tracker](./Screenshots/celestialexplorerISStrackerpage.png)
+
+### 🌠 Astronomy Picture of the Day
+![APOD](./Screenshots/celestialexplorerAPODpage.png)
+
+### 👨‍🚀 ISS Crew Information
+![ISS Crew](./Screenshots/celestialexplorernoofpeoplepage.png)
 
 ---
 
